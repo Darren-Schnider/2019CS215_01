@@ -4,6 +4,10 @@
 #Sort and process tweet files
 #Cpt_S_215
 #Programming Assignment 1
+
+# to run program from command line use:
+#<command_to_run.ext>
+
 def main ():
     print("hello world")
     return
